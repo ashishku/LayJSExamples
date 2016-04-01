@@ -1,0 +1,20 @@
+[
+  {
+    "id": 3456,
+    "name": "Ashish",
+    "email": "ashish@cybage.com",
+    "ext": 9092
+  },
+  {
+    "id": 5601,
+    "name": "Kumar",
+    "email": "kumar@cybage.com",
+    "ext": 6782
+  },
+  {
+    "id": 7834,
+    "name": "Varma",
+    "email": "varma@cybage.com",
+    "ext": 3456
+  }
+]
